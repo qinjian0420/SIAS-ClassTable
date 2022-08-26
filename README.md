@@ -66,7 +66,7 @@ cookie = {
         "ClassStartTimeId": 7.0,
         "ClassEndTimeId": 8.0,
         "Classroom": "某教室",
-        "ClassSerial": "22231.21120280-3.25",
+        "ClassSerial": "22231.000000-3.25",
         "Teacher": "李老师"
     }
 ```
