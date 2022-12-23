@@ -6,9 +6,7 @@ import requests
 def write_data():
     url = 'https://jwxt.sias.edu.cn/eams/courseTableForStd!courseTable.action'
     cookie = {
-        'cookie': 'semester.id=123; JSESSIONID=9729AD77D785CFBF80546EE3B56C0513; '
-                  'JSESSIONID=F42083177297D6016E393FDE2CEBCA93; SVRNAME=http4; '
-                  'GSESSIONID=9729AD77D785CFBF80546EE3B56C0513 '
+        'cookie': ''
     }
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) '
